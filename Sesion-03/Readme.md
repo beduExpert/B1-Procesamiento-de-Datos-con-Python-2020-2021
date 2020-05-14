@@ -114,4 +114,4 @@ Veámoslas en funcionamiento.
 >
 
 [**`Ejemplo 6`**](Ejemplo-06/lambda.ipynb)
-[**`Reto 6`**](Reto-06/lambda.ipynb)
+[**`Reto 5`**](Reto-05/lambda.ipynb)
