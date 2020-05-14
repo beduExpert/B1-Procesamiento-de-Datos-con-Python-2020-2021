@@ -5,9 +5,9 @@
 
 ### ORGANIZACIÓN DE MÓDULO 
  
- - [Sesion-01: Fundamentos de Python](Sesion-01/README.md)
- - [Sesion-02: Estructuras de Datos y Funciones](Sesion-02/README.md):  
- - [Sesion-03: Programación funcional y Excepciones](Sesion-03/README.md):  
+ - [Sesion-01: Fundamentos de Python](Sesion-01/Readme.md)
+ - [Sesion-02: Estructuras de Datos y Funciones](Sesion-02/Readme.md):  
+ - [Sesion-03: Programación funcional, operadores lógicos y funciones lambda](Sesion-03/Readme.md):  
  - [Sesion-04]():  
  - [Sesion-05]():  
  - [Sesion-06](): 
