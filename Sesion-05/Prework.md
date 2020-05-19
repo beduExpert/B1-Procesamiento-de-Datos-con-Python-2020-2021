@@ -1,4 +1,4 @@
-<div style="text-align: right"><strong>Curso Data Analysis - Módulo 3</br>PREWORK de Limpieza y Exploración de Datos</strong></div>
+<div style="text-align: right"><strong>Curso Data Analysis - Módulo 3</br>PREWORK de Funciones Vectorizadas y Limpieza de Datos</strong></div>
 
 <div style="text-align: center; color:#FF0000"><strong>PREWORK</br>SESIÓN 5</strong></div>
 

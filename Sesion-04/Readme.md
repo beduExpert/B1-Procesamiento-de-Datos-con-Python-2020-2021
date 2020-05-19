@@ -1,5 +1,5 @@
 
-## Sesión 03: Análisis Exploratorio de Datos y archivos JSON
+## Sesión 03: Pandas y Análisis Exploratorio de Datos
 
 ### 1. Objetivos
 
