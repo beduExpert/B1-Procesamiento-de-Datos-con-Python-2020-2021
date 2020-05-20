@@ -30,8 +30,25 @@
 
 - melbourne_housing-raw.csv
 
+#### Ejemplo 6
+
+- melbourne_housing-raw.csv
+
+#### Ejemplo 7
+
+- melbourne_housing-raw.csv
+
+#### Reto 5
+
+- new_york_times_bestsellers-raw.csv
+
 ### **Sesión 6**
 
 ### **Sesión 7**
 
 ### **Sesión 8**
+
+
+##### NASA API Key
+
+APIKey: KidBlDQkkXeu9dFpdV5GSVDrTH2H640zggDaZJ1a
