@@ -102,7 +102,7 @@ Los mismos principios de concatenación aplican tanto a `Series` como a `DataFra
 >
 
 [**`Ejemplo 5`**](Ejemplo-05/concat_dataframes.ipynb)
-[**`Reto 4`**](Reto-05/concat.ipynb)
+[**`Reto 4`**](Reto-04/concat.ipynb)
 
 ---
 
@@ -115,7 +115,7 @@ Ahora sí, ha llegado el momento de la verdad. Vamos a usar `for loops`, `try ex
 >
 
 [**`Ejemplo 6`**](Ejemplo-06/automatizando_peticiones.ipynb)
-[**`Reto 5`**](Reto-06/automatizando_peticiones.ipynb)
+[**`Reto 5`**](Reto-05/automatizando_peticiones.ipynb)
 
 ---
 
