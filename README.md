@@ -11,6 +11,6 @@
  - [Sesion-04: Pandas y Análisis Exploratorio de Datos](Sesion-04/Readme.md):  
  - [Sesion-05: Funciones Vectorizadas y Limpieza de Datos](Sesion-05/Readme.md):  
  - [Sesion-06: APIs, automatización y concatenación de DataFrames](Sesion-06/Readme.md): 
- - [Sesion-07]():  
+ - [Sesion-07: Transformación, filtración y ordenamiento de datos](Sesion-07/Readme.md):  
  - [Sesion-08]():  
 

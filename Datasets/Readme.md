@@ -44,6 +44,18 @@
 
 ### **Sesión 7**
 
+  #### Prework
+  
+- new_york_times_bestsellers-dirty.csv
+
+  #### Ejemplos
+  
+- new_york_times_bestsellers-dirty.csv
+
+  #### Retos
+  
+- near_earth_objects-jan_feb_1995-dirty.csv
+
 ### **Sesión 8**
 
-
+- https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data
