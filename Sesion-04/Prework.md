@@ -374,3 +374,47 @@ Podemos observar aquí que sólo las columnas `has_online_delivery` y `price_ran
 ---
 
 Éste fue un primer acercamiento muy básico al Ánalisis Exploratorio de Datos. En la siguiente sesión aprenderemos a adquirir datos de otras fuentes y exploraremos también herramientas de exploración mucho más poderosas. 
+
+---
+
+## Quiz
+
+1. ¿Cuál de estos tipos de dato *no* es un tipo de dato de `pandas`?
+
+a) `object`
+b) `text`
+c) `int64`
+d) `float64`
+e) `bool`
+
+2. ¿Qué propiedad de las `Series` de `pandas` utilizamos para indexar nuestra `Serie` y obtener valores específicos?
+
+a) append
+b) idx
+c) index
+d) loc
+e) pos
+
+3. ¿Cuál es la manera correcta de agregar una columna a mi `DataFrame`?
+
+a) df.add(nueva_columna)
+b) df.append(nueva_columna)
+c) df['nueva_columna'] = nueva_columna
+d) df[nueva_columna]
+e) df + nueva_columna
+
+4. ¿Cuál de los métodos siguientes puedo usar para obtener las 10 primeras entradas de un `DataFrame`?
+
+a) df.head(10)
+b) df.tail(10)
+c) df[:10]
+d) df.get(10)
+e) df.head()
+
+5. ¿Qué propiedad puedo pedir para obtener los tipos de datos de cada columna en mi `DataFrame`?
+
+a) df.types
+b) df.T
+c) types(df)
+d) df.dtypes
+e) df.get('types')

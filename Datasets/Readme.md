@@ -1,61 +1,69 @@
-## Datasets del módulo:
+## Datasets utilizados en este módulo:
 
-### **Sesión 4**
+### 1. Zomato Restaurants Data:
 
-  #### Prework
-
-- zomato_reviews-clean.json (zomato_reviews-raw-cleaning.ipynb)
-
-  #### Ejemplo 6
-
-- zomato_reviews-clean.json (zomato_reviews-raw-cleaning.ipynb)
-
-  #### Ejemplo 7
-
-- zomato_reviews-clean.json (zomato_reviews-raw-cleaning.ipynb)
-
-  #### Reto 5
-
-- new_york_times_bestsellers-clean.json
-
-### **Sesión 5**
-
-  #### Prework
-
-- melbourne_housing-raw.csv
-
-  #### Ejemplo 6
-
-- melbourne_housing-raw.csv
-
-  #### Ejemplo 7
-
-- melbourne_housing-raw.csv
-
-  #### Reto 5
-
-- new_york_times_bestsellers-raw.csv
-
-### **Sesión 6**
-
-  #### Ejemplo 6
- 
-- near_earth_objects-raw.csv
-
-### **Sesión 7**
-
-  #### Prework
+- [Fuente](https://www.kaggle.com/shrutimehta/zomato-restaurants-data)
+- Archivos locales:
+  - zomato_reviews-raw.json
+  - zomato_reviews-clean.json
+- Scripts relacionados:
+  - zomato_reviews-raw-cleaning.ipynb
+- Sesiones en que se utiliza:
+  - Sesión 4 => Prework / Ejemplo 6 / Ejemplo 7
   
-- new_york_times_bestsellers-dirty.csv
+### 2. New York Times Bestsellers:
 
-  #### Ejemplos
+- [Fuente](https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers)
+- Archivos locales:
+  - new_york_times_bestsellers-raw.json
+  - new_york_times_bestsellers-clean.json
+  - new_york_times_bestsellers-raw.csv
+  - new_york_times_bestsellers-dirty.csv
+- Scripts relacionados:
+  - new_york_times_bestseller-raw-cleaning.ipynb
+  - near_earth_objects_new_york_times_bestsellers-dirtying.ipynb
+- Sesiones en que se utiliza:
+  - Sesión 4 => Reto 5
+  - Sesión 5 => Reto 5
+  - Sesión 7 => Prework / Ejemplos
   
-- new_york_times_bestsellers-dirty.csv
+### 3. Melbourne Housing Market:
 
-  #### Retos
+- [Fuente](https://www.kaggle.com/anthonypino/melbourne-housing-market)
+- Archivos locales:
+  - melbourne_housing-raw.csv
+  - melbourne_housing-no_nans.csv
+- Script relacionados:
+  - melbourne_housing-raw-cleaning.ipynb
+- Sesiones en que se utiliza:
+  - Sesión 5 => Prework / Ejemplo 6 / Ejemplo 7
   
-- near_earth_objects-jan_feb_1995-dirty.csv
+### 4. Near Earth Object Web Service (API)
 
-### **Sesión 8**
+- [Fuente](https://api.nasa.gov/)
+- Archivos locales:
+  - near_earth_objects-raw.csv
+  - near_earth_objects-jan_feb_1995-raw.csv
+  - near_earth_objects-jan_feb_1995-dirty.csv
+- Scripts relacionados:
+  - near_earth_objects_new_york_times_bestsellers-dirtying.ipynb
+- Sesiones en que se utiliza:
+  - Sesión 6 => Ejemplo 6
+  - Sesión 7 => Retos
+  
+### 5. MovieLens Dataset
 
-- https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data
+- [Fuente](http://files.grouplens.org/datasets/movielens)
+- Archivos locales:
+  - MovieLens/age_ranges-raw.csv
+  - MovieLens/movies-raw.csv
+  - MovieLens/occupations-raw.csv
+  - MovieLens/ratings-raw.csv
+  - MovieLens/users-raw.csv
+  - MovieLens/users-full.csv
+- Scripts relacionados:
+  - MovieLens/table_creation.ipynb
+- Readme:
+  - MovieLens/Readme.md
+- Sesiones en que se utiliza:
+  - Sesión 8 => Prework / Ejemplos / Retos

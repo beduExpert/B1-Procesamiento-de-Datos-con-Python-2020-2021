@@ -1,4 +1,4 @@
-<div style="text-align: right"><strong>Curso Data Analysis - Módulo 3</br>PREWORK de APIs, automatización y concatenación de DataFrames</strong></div>
+<div style="text-align: right"><strong>Curso Data Analysis - Módulo 4</br>PREWORK de APIs, automatización y concatenación de DataFrames</strong></div>
 
 <div style="text-align: center; color:#FF0000"><strong>PREWORK</br>SESIÓN 6</strong></div>
 
@@ -319,3 +319,71 @@ Regresemos al fin a nuestro dataset original, el que obtuvimos de la API. Vamos 
 Ya que tenemos las primeras 10 páginas de la API guardadas en un `DataFrame`, no queremos tener que volver a repetir todo el proceso. Para evitar esto, podemos guardar nuestro `DataFrame` en un archivo .csv para acceder a él después:
 
 Ahora podríamos llevar a cabo el Procesamiento de Datos pertinente, pero eso lo llevaremos a cabo en otra sesión. Por lo pronto "¡hasta luego y gracias por todos los pescados!".
+
+---
+
+## Quiz
+
+1. ¿Qué verbo HTTP utilizamos cuando queremos modificar un recurso de nuestra API?
+
+a) PUT
+b) POST
+c) PATCH
+d) DELETE
+e) GET
+
+2. ¿Qué estatus te regresa una API cuando los datos que enviaste en tu llamada son incorrectos?
+
+a) 200
+b) 201
+c) 404
+d) 400
+e) 500
+
+3. ¿Cuál es la sintaxis correcta para crear un `for loop` que imprima los valores del 0 al 9 uno tras otro?
+
+a) 
+```python
+for i in 9:
+    print(i)
+```
+
+b) 
+```python
+for 0 in 9:
+    print(num)
+```
+
+c) 
+```python
+for i in len(9):
+    print(i)
+```
+
+d) 
+```python
+for i in range(0, 10):
+    print(i)
+```
+
+e) 
+```python
+for i in range(0, 9):
+    print(i)
+```
+
+4. Tenemos un `DataFrame` con multiíndice de 2 niveles. ¿Cuál es la sintaxis correcta para acceder al valor encontrado en el índice `level_1` del nivel 1 y el índice `level_2` del nivel 2:
+
+a) `df.loc[['level_1', 'level_2']]`
+b) `df.loc[('level_1', 'level_2')]`
+c) `df.loc['level_1']['level_2']`
+d) `df.loc(('level_1', 'level_2'))`
+e) `df.loc.level_1.level_2`
+
+5. ¿Qué bandera tengo que utilizar para concatenar dos `Series` de manera vertical?
+
+a) `axis=0`
+b) `axis=1`
+c) `ax=0`
+d) `axis=2`
+e) `vertical=True`

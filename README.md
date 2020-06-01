@@ -12,5 +12,8 @@
  - [Sesion-05: Funciones Vectorizadas y Limpieza de Datos](Sesion-05/Readme.md):  
  - [Sesion-06: APIs, automatización y concatenación de DataFrames](Sesion-06/Readme.md): 
  - [Sesion-07: Transformación, filtración y ordenamiento de datos](Sesion-07/Readme.md):  
- - [Sesion-08]():  
+ - [Sesion-08: Bases de datos, merge y agrupaciones](Sesion-08/Readme.md):  
 
+#### Datasets del módulo:
+
+- [Datasets](./Datasets/Readme.md)

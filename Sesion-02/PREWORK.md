@@ -259,3 +259,42 @@ Los valores regresados en el `return`, "traspasan" contextos. Son como viajeros 
 ---
 
 Hemos terminado el Prework de la Sesión 2. Ojalá y disfrutes mucho los Retos que haremos en el Work, están diseñados para que practiques y domines todos los conceptos que aprendimos hoy. ¡Mucha suerte!
+
+---
+
+## Quiz
+
+1. ¿Qué método se utiliza para agregar elementos a una lista?
+
+a) append
+b) add
+c) pop
+d) agregízame.com
+e) concat
+
+2. ¿En qué se diferencia una lista de un diccionario?
+
+a) La lista tiene orden, el diccionario no
+b) Los diccionarios se organizan en pares llave-valor, las listas no
+c) Las listas tienen espacio limitado, los diccionarios no
+e) Las listas se definen usando corchetes, los diccionario se definen usando llaves
+f) Las opciones a, b y c
+g) Las opciones a, b y e
+h) Las opciones b, c y e
+
+3. ¿Qué palabra se utiliza para empezar la declaración de una función?
+
+a) func
+b) fun
+c) def
+d) dec
+e) aquí_les_va_la_funcion
+
+4. Una de las razones para usar funciones es:
+
+a) Para ahorrar memoria RAM en la computadora
+b) Para modularizar nuestro código y poder reutilizarlo
+c) Porque las funciones aceleran la velocidad de nuestros programas
+d) Para sentirnos súper acá
+
+5. Describe con tus propias palabras que significa "Contexto de una variable".

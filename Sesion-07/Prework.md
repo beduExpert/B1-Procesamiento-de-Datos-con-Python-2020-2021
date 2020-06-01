@@ -130,7 +130,7 @@ Es importante observar que hay dos tipos diferentes de fechas en nuestro `DataFr
 
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-7_19.png'></div>
 
-`bestsellers_date.numberLong` (que además tiene un pésimo nombre) es una `string` que representa la fecha junto con hora, minutos y segundos (aunque estos últimos están en ceros). `published_date.numberLong` es un `int` que representa el número de milisegundos que han transcurrido desde "la Época". La "Época" es la medianoche UTC del 1 de enero de 1970, y si quieres saber por qué a veces contamos el tiempo a partir de esa fecha [puedes ir aquí](https://es.wikipedia.org/wiki/Tiempo_Unix). Ambos pueden ser convertidos a `datetime64` usando el mismo método. Para `bestsellers_date.numberLong` es tan sencillo como hacer lo siguiente:
+`bestsellers_date.numberLong` (que además tiene un pésimo nombre) es una `string` que representa la fecha junto con hora, minutos y segundos (aunque estos últimos están en ceros). `published_date.numberLong` es un `int` que representa el número de milisegundos que han transcurrido desde "la Época". La "Época" es la medianoche UTC del 1 de enero de 1970, y si quieres saber por qué a veces contamos el tiempo a partir de esa fecha [puedes ir aquí para aprender sobre Tiempo Unix](https://es.wikipedia.org/wiki/Tiempo_Unix). Ambos pueden ser convertidos a `datetime64` usando el mismo método. Para `bestsellers_date.numberLong` es tan sencillo como hacer lo siguiente:
 
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-7_20.png'></div>
 
@@ -329,3 +329,41 @@ También podríamos ordenar nuestro `DataFrame` para ver cuáles fueron los 5 li
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-7_55.png'></div>
 
 ¡108 semanas! ¡Felicidades, Kathryn Stockett! Como puedes, el misterio ha sido revelado. Hay una entrada en nuestro `DataFrame` por cada semana en la que un libro fue "best seller". Es por eso que "The Help" aparece en las 5 primeras entradas: porque no hay ningún otro libro que haya estado más de 104 semanas como "best seller".
+
+---
+
+## Quiz
+
+1. ¿Qué método usarías para convertir una columna a valores numéricos si es probable que en esa columna haya valores que no pueda ser convertidos a valores numéricos?
+
+a) `astype`
+b) `force_numeric`
+c) `to_numeric`
+d) `to_int`
+e) `coerce`
+
+2. Describe con tus propias palabras qué significa "Tiempo Unix" (tiene que ver con fechas y horas).
+
+3. ¿Qué método usaría si quisiera dividir todas las `strings` de una columna usando `,` como separador?
+
+a) df['columna'].str.strip(',')
+b) df['columna'].split(',')
+c) ','.split(df['columna'])
+d) df['columna'].str.split(',')
+e) df['columna'].str.split_by(',')
+
+4. ¿Qué código usaría si quisiera ordenar descendentemente mi `DataFrame` usando la columna 'valores'?
+
+a) df.sort_values('valores')
+b) df.sort_by('valores', asc=True)
+c) df.sort_values('valores', ascending=False)
+d) pd.sort(df, by='valores', ascending=False)
+e) df.sort_index(drop=True)
+
+5. ¿Qué código usaría para filtrar mi `DataFrame` por valores mayores a 50 y obtener un conteo de cuántas entradas quedaron?
+
+a) df[df['valores'] > 50].sum()
+b) (df['valores'] > 50).count()
+c) df['valores'].count() > 50
+d) df.max(50).count()
+e) df[df['valores'] > 50].count()
