@@ -12,11 +12,11 @@ Vamos a finalizar con una de las herramientas más poderosas que nos ofrece `pan
 
 #### Objetivos
 
-- Aprender a leer una base de datos MySQL usando un programa de Python
-- Aprender a convertir datos provenientes de una base de datos en `DataFrames`
-- Aprender a unir múltiples tablas usando el método `merge`
-- Aprender a usar `grouby` para agrupar nuestros datos
-- Aprender a aplicar agregaciones a nuestros grupos
+- Leer una base de datos MySQL usando un programa de Python.
+- Convertir datos provenientes de una base de datos en `DataFrames`.
+- Unir múltiples tablas usando el método `merge`.
+- Usar `grouby` para agrupar nuestros datos.
+- Aplicar agregaciones a nuestros grupos.
 
 #### TODO
 
