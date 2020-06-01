@@ -8,10 +8,11 @@ En la sesión anterior aprendimos a usar Jupyter Notebooks y dimos un primer cla
 
 #### Objetivos
 
-- Conocer las dos principales estructuras de datos que son la base de la programación con Python
-- Comparar dos diferentes maneras de estructurar datos y saber las ventajas y desventajas de cada una
-- Aprender a reutilizar código y hacer nuestros programas más modulares
-- Entender mejor el funcionamiento detrás de las funciones builtin de Python
+- Conocer las dos principales estructuras de datos que son la base de la programación con Python.  
+- Comparar dos diferentes maneras de estructurar datos y saber las ventajas y desventajas de cada una.  
+- Reutilizar código y hacer nuestros programas más modulares.  
+- Entender mejor el funcionamiento detrás de las funciones builtin de Python.  
+
 
 #### TODO
 
