@@ -2,7 +2,7 @@
 
 ### OBJETIVO 
 
-- Conocer las diferentes maneras que hay de coleccionar datos y elegir la más apropiada para responder a tus preguntas
+- Identificar las diferentes maneras que hay de coleccionar datos y utilizar la más apropiada para responder a tus preguntas.
 
 #### REQUISITOS 
 
