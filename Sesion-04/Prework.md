@@ -12,10 +12,11 @@ El día de hoy aprenderemos la primera de ellas: `Pandas`. Veremos cómo usarla 
 
 #### Objetivos
 
-- Aprender a importar paquetes y módulos.
-- Aprender las características básicas de las Series y DataFrames de Pandas.
-- Aprender a leer JSONs usando Pandas.
-- Aprender herramientas básicas de exploración de datos.
+- Importar paquetes y módulos.
+- Identificar las características básicas de las Series y DataFrames de Pandas.
+- Leer JSONs usando Pandas.
+- Utilizar herramientas básicas de exploración de datos.
+
 
 #### TODO
 
