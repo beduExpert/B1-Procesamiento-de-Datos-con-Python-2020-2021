@@ -8,11 +8,11 @@ En esta sesión vamos a aprender 3 de las herramientas más importantes que tene
 
 #### Objetivos
 
-- Aprender a hacer casting de tipos de datos
-- Aprender a manipular strings usando el módulo `str`
-- Aprender a aplicar funciones custom a un `DataFrame`
-- Aprender a aplicar filtros a nuestros datos
-- Aprender a ordenar nuestro dataset por columnas
+- Hacer casting de tipos de datos.
+- Manipular strings usando el módulo `str`.
+- Aplicar funciones custom a un `DataFrame`.
+- Aplicar filtros a nuestros datos.
+- Ordenar nuestro dataset por columnas.
 
 #### TODO
 
