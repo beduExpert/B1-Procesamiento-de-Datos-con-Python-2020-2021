@@ -12,12 +12,12 @@ Para terminar vamos a realizar un exploración acerca de una de las maneras que 
 
 #### Objetivos
 
-- Aprender a a hacer peticiones a APIs
-- Aprender For loops y Excepciones para poder automatizar nuestras peticiones a APIs
-- Aprender a usar concat para unir múltiples `Series`
-- Aprender a indexar usando `Multiíndices` en filas
-- Aprender a usar concat para unir múltiples `DataFrames`
-- Aprender a guardar datasets localmente en formato .csv
+- Hacer peticiones a APIs.
+- Automatizar peticiones a APIs utilizando For loops y Excepciones. 
+- Usar concat para unir múltiples `Series`.
+- Indexar usando `Multiíndices` en filas
+- Usar concat para unir múltiples `DataFrames`.
+- Guardar datasets localmente en formato .csv.
 
 #### TODO
 
