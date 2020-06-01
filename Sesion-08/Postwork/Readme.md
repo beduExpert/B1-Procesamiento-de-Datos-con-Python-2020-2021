@@ -2,9 +2,9 @@
 
 ### OBJETIVO 
 
-- Afinar lo que llevamos hecho hasta ahora
-- Crear un Jupyter Notebooks donde mostremos con claridad cuál ha sido nuestro proceso
-- Imaginar y planear pasos a futuro para análisis y visualizaciones que podamos realizar con nuestro dataset.
+- Afinar lo que llevamos hecho hasta ahora.
+- Crear un Jupyter Notebooks donde mostremos con claridad cuál ha sido nuestro proceso.
+- Planear pasos a futuro para análisis y visualizaciones que podamos realizar con nuestro dataset.
 
 #### REQUISITOS 
 
