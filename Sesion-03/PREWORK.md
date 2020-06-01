@@ -14,11 +14,11 @@ Con tan sólo estos ingredientes, podemos hacer cosas maravillosas. ¿Quieres ve
 
 #### Objetivos
 
-- Aprender que tan sólo usando estructuras de datos y funciones podemos realizar gran parte de los procesos que utilizaremos como científicos de datos.
+- Comprender que tan sólo usando estructuras de datos y funciones podemos realizar gran parte de los procesos que utilizaremos como científicos de datos.
 - Entender que los programas no son más que datos organizados de alguna manera y funciones aplicadas a dichos datos.
 - Sentirse cómodos con las 2 funciones más importantes de la programación funcional: map y filter.
-- Aprender a usar `operadores lógicos` para "extender" la funcionalidad de los `operadores de comparación`.
-- Aprender a usar `funciones lambda` para simplificar el uso de `map` y `filter`.
+- Utilizar `operadores lógicos` para "extender" la funcionalidad de los `operadores de comparación`.
+- Usar `funciones lambda` para simplificar el uso de `map` y `filter`.
 
 #### TODO
 
