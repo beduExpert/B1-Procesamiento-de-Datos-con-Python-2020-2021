@@ -2,7 +2,7 @@
 
 ### OBJETIVO 
 
-- Practicar el primer paso en todo proyecto de Ciencia de Datos: Identificación del Problema
+- Identificar un problema (el primer paso en todo proyecto de ciencia de datos).
 
 #### REQUISITOS 
 
