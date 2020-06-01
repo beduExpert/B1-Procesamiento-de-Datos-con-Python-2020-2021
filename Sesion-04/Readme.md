@@ -3,10 +3,10 @@
 
 ### 1. Objetivos
 
-1. Aprender a importar paquetes y módulos.
-2. Aprender las características básicas de las Series y DataFrames de Pandas.
-3. Aprender a leer JSONs usando Pandas.
-4. Aprender herramientas básicas de exploración de datos.
+1. Importar paquetes y módulos.
+2. Identificar las características básicas de las Series y DataFrames de Pandas.
+3. Leer JSONs usando Pandas.
+4. Utilizar herramientas básicas de exploración de datos.
 
 ### 2. Contenido
 
