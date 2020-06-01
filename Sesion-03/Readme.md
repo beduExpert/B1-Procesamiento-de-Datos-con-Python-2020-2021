@@ -3,8 +3,8 @@
 
 ### 1. Objetivos
 
-1. Aprender a usar las dos funciones más importantes de la programación funcional: `map` y `filter`.
-2. Aprender a usar `operadores lógicos` para extender la funcionalidad de nuestros `operadores de comparación`.
+1. Usar las dos funciones más importantes de la programación funcional: `map` y `filter`.
+2. Utilizar `operadores lógicos` para extender la funcionalidad de nuestros `operadores de comparación`.
 3. Conocer la sintaxis de las funciones `lambda` par simplificar la definición de funciones.
 
 ### 2. Contenido
