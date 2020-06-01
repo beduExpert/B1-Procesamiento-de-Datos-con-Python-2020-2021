@@ -1,4 +1,4 @@
-## Nombre del Módulo: Procesamiento de Datos con Python
+## Procesamiento de Datos con Python
 
 ### OBJETIVO 
 
