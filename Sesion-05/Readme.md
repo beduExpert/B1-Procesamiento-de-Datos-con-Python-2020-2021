@@ -3,11 +3,11 @@
 
 ### 1. Objetivos
 
-1. Aprender qué son las funciones vectorizadas y cómo usarlas
-2. Aprender sobre agregaciones/reducciones
-3. Aprender a leer un CSV
-4. Aprender cómo encontrar y limpiar datos nulos
-5. Aprender a reindexar y cambiar el nombre de las columnas
+1. Identificar y utilizar las funciones vectorizadas.
+2. Identificar agregaciones/reducciones.
+3. Leer un CSV.
+4. Encontrar y limpiar datos nulos.
+5. Reindexar y cambiar el nombre de las columnas.
 
 ### 2. Contenido
 
