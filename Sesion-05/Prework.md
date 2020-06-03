@@ -10,10 +10,10 @@ La Exploración y la Limpieza van totalmente de la mano. No puedes limpiar sin e
 
 #### Objetivos
 
-- Aprender a leer archivos en formato CSV
-- Aprender técnicas más avanzadas de exploración de datos
-- Aprender cómo a través de la exploración podemos encontrar inconsistencias, errores y redundancias
-- Aprender algunas técnicas básicas de limpieza de datos
+- Leer archivos en formato CSV.
+- Utilizar técnicas más avanzadas de exploración de datos.
+- Utilizar la exploración para encontrar inconsistencias, errores y redundancias.
+- Usar algunas técnicas básicas de limpieza de datos.
 
 ### Lectura de CSVs
 

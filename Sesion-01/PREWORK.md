@@ -8,9 +8,9 @@
 
 #### Objetivos
 
-1. Entender por qué el Procesamiento de Datos es tan importante para la Ciencia de Datos
-2. Conocer Jupyter Notebooks, el IDE por excelencia de los científicos de datos
-3. Tener una introducción a los principios básicos de Python
+1. Identificar la razón por la cual el Procesamiento de Datos es tan importante para la Ciencia de Datos.
+2. Utilizar Jupyter Notebooks, el IDE por excelencia de los científicos de datos.
+3. Identificar y utilizar los principios básicos de Python.
 
 #### TODO
 

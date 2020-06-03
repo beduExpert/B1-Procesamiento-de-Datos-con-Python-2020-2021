@@ -2,7 +2,7 @@
 
 ### OBJETIVO 
 
-- Realizar el paso #2 en todo proyecto de Ciencia de Datos: El Planteamiento de Preguntas
+- Realizar planteamiento de preguntas (el paso #2 en todo proyecto de ciencia de datos).
 
 #### REQUISITOS 
 

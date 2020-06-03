@@ -2,9 +2,9 @@
 
 ### OBJETIVO 
 
-- Practicar el uso de APIs y peticiones HTTP
-- Explorar la posibilidad de automatizar procesos de exploración y limpieza usando `for loops`
-- Proteger nuestro código contra errores usando `try except`
+- Practicar el uso de APIs y peticiones HTTP.
+- Automatizar procesos de exploración y limpieza usando `for loops`.
+- Proteger nuestro código contra errores usando `try except`.
 
 #### REQUISITOS 
 

@@ -2,9 +2,10 @@
 
 ### OBJETIVO 
 
-- Practicar el uso transformaciones de datos para limpiar y preparar un dataset para análisis
-- Practicar filtraciones para obtener conjuntos de datos
-- Practicar reordenamiento de datos para ver el conjunto desde diferentes perspectivas
+- Utilizar transformaciones de datos para limpiar y preparar un dataset para análisis.
+- Realizar filtraciones para obtener conjuntos de datos.
+- Reordenar datos para ver el conjunto desde diferentes perspectivas.
+
 
 #### REQUISITOS 
 

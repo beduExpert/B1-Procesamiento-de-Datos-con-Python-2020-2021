@@ -3,9 +3,9 @@
 
 ### 1. Objetivos
 
-1. Entender la utilidad de las estructuras de datos para organizar información dentro de nuestros programas
-2. Aprender a usar listas y diccionarios y entender las principales diferencias entre ellos
-3. Aprender a declarar funciones y utilizarlas exitosamente
+1. Comprender la utilidad de las estructuras de datos para organizar información dentro de nuestros programas.
+2. Utilizar listas y diccionarios y entender las principales diferencias entre ellos.
+3. Declarar funciones y utilizarlas exitosamente.
 
 ### 2. Contenido
 

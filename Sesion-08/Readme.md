@@ -3,11 +3,11 @@
 
 ### 1. Objetivos
 
-- Aprender a conectarse a una base de datos MySQL usando Python
-- Aprender a obtener datos de un SGBD y convertir esos datos a `DataFrames`
-- Aprender a unir esos `DataFrames` usando el método `merge`
-- Aprender a segmentar nuestros `DataFrames` usando `groupby`
-- Aprender a aplicar agregaciones y funciones a nuestros grupos
+- Conectarse a una base de datos MySQL usando Python.
+- Obtener datos de un SGBD y convertir esos datos a `DataFrames`.
+- Unir `DataFrames` usando el método `merge`.
+- Segmentar nuestros `DataFrames` usando `groupby`.
+- Aplicar agregaciones y funciones a nuestros grupos.
 
 ### 2. Contenido
 
