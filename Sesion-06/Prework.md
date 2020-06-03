@@ -19,8 +19,6 @@ Para terminar vamos a realizar un exploración acerca de una de las maneras que 
 - Aprender a usar concat para unir múltiples `DataFrames`
 - Aprender a guardar datasets localmente en formato .csv
 
-#### TODO
-
 ### APIs
 
 Una API es una interfaz para comunicarnos con un software que está corriendo en algún servidor remoto. Normalmente, una API se usa para obtener datos acerca de algún tema en específico. Diferentes compañías, instituciones, universidades, etc, tienen APIs para que nosotros (programadores/desarrolladores/científicos de datos) podamos construir programas usando los datos que ofrecen. Hay una infinidad de APIs que ofrecen una gran diversidad de información.

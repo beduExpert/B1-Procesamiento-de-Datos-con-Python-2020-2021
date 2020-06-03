@@ -15,8 +15,6 @@ La Exploración y la Limpieza van totalmente de la mano. No puedes limpiar sin e
 - Aprender cómo a través de la exploración podemos encontrar inconsistencias, errores y redundancias
 - Aprender algunas técnicas básicas de limpieza de datos
 
-#### TODO
-
 ### Lectura de CSVs
 
 La sesión pasada aprendimos a leer archivos en formato JSON. El formato JSON, que es muy parecido a los `diccionarios` de Python, es sólo uno de los tantos formatos con los que nos vamos a topar.

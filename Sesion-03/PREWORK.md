@@ -20,11 +20,6 @@ Con tan sólo estos ingredientes, podemos hacer cosas maravillosas. ¿Quieres ve
 - Aprender a usar `operadores lógicos` para "extender" la funcionalidad de los `operadores de comparación`.
 - Aprender a usar `funciones lambda` para simplificar el uso de `map` y `filter`.
 
-#### TODO
-
-- Revisar instalación de Seaborn. Si tocamos el tema de environments en Sesión 1, la instalación sería distinta
-- Tal vez mencionar `for loops` y dejar una fuente por si alguien quiere aprenderlos
-
 ### Intro Parcial a Programación Funcional
 
 A través de las décadas los programadores han ido desarrollando innumerables técnicas para hacer programas resilientes, comprensibles y fáciles de extender. Muchos de estos conocimientos han sido reunidos en los llamados `paradigmas de programación`. Un `paradigma de programación` es básicamente un conjunto de herramientas, métodos y reglas que se reunen cohesivamente y se utilizan para resolver problemas computacionales. Hay diferentes "perspectivas" acerca de cuál es la mejor manera de escribir un programa. Cada una de esas "perspectivas" está representada por un paradigma de programación.

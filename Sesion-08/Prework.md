@@ -18,8 +18,6 @@ Vamos a finalizar con una de las herramientas más poderosas que nos ofrece `pan
 - Aprender a usar `grouby` para agrupar nuestros datos
 - Aprender a aplicar agregaciones a nuestros grupos
 
-#### TODO
-
 ### MySQL
 
 Como seguramente ya sabrás, MySQL es un Sistema de Gestión de Bases de Datos. Según [Wikipedia](https://es.wikipedia.org/wiki/Base_de_datos), una base de datos es "un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso". Cuando estés trabajando en startups o compañías más grandes, trabajando en proyectos a largo plazo o colaborando con científicos en sus investigaciones, muy probablemente te toparás con la necesidad de almacenar grandes cantidades de datos de una manera que permita el fácil acceso. Usar un SGBD, como MySQL, PostgreSQL, MariaDB, MongoDB, etc, va a ser la mejor opción. Esto se debe a que un SGBD puede correr no solamente en tu computadora local, sino en un servidor remoto. Al tener tu base de datos disponible en un servidor, tanto tú como los demás miembros de tu equipo pueden tener acceso a los datos rápidamente.

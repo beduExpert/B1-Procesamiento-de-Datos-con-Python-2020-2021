@@ -13,8 +13,6 @@ En la sesión anterior aprendimos a usar Jupyter Notebooks y dimos un primer cla
 - Aprender a reutilizar código y hacer nuestros programas más modulares
 - Entender mejor el funcionamiento detrás de las funciones builtin de Python
 
-#### TODO
-
 ### Estructuras de datos
 
 Datos, datos, datos... Están en todas partes. Evidentemente, nosotros queremos aprender a analizarlos, así que entendemos su importancia. Cuando pensamos en datos solemos pensar en bases de datos, en archivos CSV, en  hojas de Excel, y otros. Cada uno de estos tiene su propia estructura de datos. Las computadoras necesitan estas estructuras de datos para organizar los datos de manera eficiente. Sin estructuras de datos, tendríamos todos nuestros datos "regados por ahí". Encontrar lo que estamos buscando sería imposible. Y todos nuestros procesos se harían de la forma más ineficiente posible.

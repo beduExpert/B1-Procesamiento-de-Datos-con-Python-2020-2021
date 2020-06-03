@@ -14,8 +14,6 @@ En esta sesión vamos a aprender 3 de las herramientas más importantes que tene
 - Aprender a aplicar filtros a nuestros datos
 - Aprender a ordenar nuestro dataset por columnas
 
-#### TODO
-
 ### Transformación de Datos
 
 Uno de los pasos más importantes en todo este proceso es el de la Transformación de Datos. Transformar datos significa exactamente lo que suena: tomar un dato y convertirlo en otro dato o en otro tipo de dato. La razón por la que necesitamos transformar nuestros datos es porque pocas veces vienen en el formato que lo necesitamos. Ya hemos realizado algunas transformaciones de nuestro dataset, como por ejemplo cuando convertimos `NaNs` en `0s`. El día de hoy aumentaremos las herramientas que tenemos para transformar datos con varias técnicas que son ampliamente utilizadas por los Procesadores de Datos.

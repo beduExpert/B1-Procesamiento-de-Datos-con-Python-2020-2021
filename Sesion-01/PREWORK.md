@@ -15,9 +15,7 @@
 #### TODO
 
 - Instrucciones para clonar el repo
-- Revisar bien las instrucciones de instalación de Jupyter Notebooks (no funciona `conda install` sin un environment)
-- Instrucciones por si la instalación de Conda no funciona adecuadamente
-- Usar conda environments o usar pip?
+- Cambiar todo a Google Colab
 
 ### ¿Por qué es importante el Procesamiento de Datos?
 

@@ -17,11 +17,6 @@ El día de hoy aprenderemos la primera de ellas: `Pandas`. Veremos cómo usarla 
 - Aprender a leer JSONs usando Pandas.
 - Aprender herramientas básicas de exploración de datos.
 
-#### TODO
-
-- Revisar instalaciones para saber si manejamos pip o conda
-- Tal vez una intro a JSON?
-
 ### Importación de paquetes
 
 `Pandas` es lo que se llama un paquete de Python. Un paquete es un conjunto de módulos. ¿Qué es un módulo? Es un archivo `.py` que contiene código de Python que podemos reutilizar en otras secciones de nuestro programa. Un paquete entonces tiene muchos módulos, cada módulo conteniendo código que cualquier persona puede utilizar para extender las capacidades de su programa.
