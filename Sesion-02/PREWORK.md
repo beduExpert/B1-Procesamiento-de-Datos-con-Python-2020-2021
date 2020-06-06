@@ -46,7 +46,7 @@ Toda lista tiene un índice ligado a cada elemento que la conforma. Como las lis
 
 El orden de los elementos se mantiene a menos que algo lo modifique, así que la sentencia `lista_1[0]` me va a regresar siempre un `4` (el primer elemento de la lista), a menos que la lista sea modificada.
 
-Es importante tener cuidado cuando accedemos a índices en una lista. Si pedimos un índice que no está ligado a ningún elemento (porque es un índice mayor al número de elementos que tenemos en la lista), vamos a obtener un error (algo que no es buena idea obtener, como podrán imaginarse):
+Es importante tener cuidado cuando accedemos a índices en una lista. Si pedimos un índice que no está ligado a ningún elemento (porque es un número mayor al índice máximo que existe en nuestra lista), vamos a obtener un error (algo que no es buena idea obtener, como podrán imaginarse):
 
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-2_5.png'></div>
 
