@@ -36,7 +36,7 @@ Otras dos tablas fueron creadas en la base de datos para tener cierta informaci�
 
 Vamos a utilizar la librería MySQL Connector para realizar la conexión a la base de datos. Instala la librería corriendo el siguiente comando:
 
-`pip install !mysql-connector-python`
+`!pip install mysql-connector-python`
 
 Ahora, en nuestro programa de Python, tenemos que importar la librería:
 
