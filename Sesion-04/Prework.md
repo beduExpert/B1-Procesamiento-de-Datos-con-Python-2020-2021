@@ -12,37 +12,10 @@ El día de hoy aprenderemos la primera de ellas: `Pandas`. Veremos cómo usarla 
 
 #### Objetivos
 
-- Importar paquetes y módulos.
 - Identificar las características básicas de las Series y DataFrames de Pandas.
 - Leer JSONs usando Pandas.
 - Utilizar herramientas básicas de exploración de datos.
 
-
-### Importación de paquetes
-
-`Pandas` es lo que se llama un paquete de Python. Un paquete es un conjunto de módulos. ¿Qué es un módulo? Es un archivo `.py` que contiene código de Python que podemos reutilizar en otras secciones de nuestro programa. Un paquete entonces tiene muchos módulos, cada módulo conteniendo código que cualquier persona puede utilizar para extender las capacidades de su programa.
-
-Podríamos programar todo siempre desde cero, pero en ese caso todo tomaría muchísimo tiempo y además nunca lograríamos tanta eficiencia. Usar paquetes que hen hecho otras personas es muy útil porque nos ahorra tiempo y energía y nos da "super poderes" que podemos utilizar en nuestro programa.
-
-Para poder utilizar un paquete, lo primero que tenemos que hacer que instalarlo en nuestra computadora. Vamos a instalar `Pandas` para poder utilizarlo.
-
-Vamos a abrir nuestra terminal:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-4_1.png'></div>
-
-Ahora usemos el comando `pip install pandas` para instalar el paquete de `pandas` en nuestra computadora. Debes obtener algo como esto:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-4_2.png'></div>
-
-Ya tenemos instalado nuestro paquete. Ahora veamos cómo usarlo en nuestro código. Abre un Jupyter Notebook, escribe la siguiente línea y corre tu celda:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-4_3.png'></div>
-
-¡Listo! Ya podemos acceder a `Pandas` en nuestro programa. ¿Por qué agregamos lo de `as pd`? Bueno básicamente le estamos diciendo a Python que queremos poder escribir `pd` en vez de `pandas` cada vez que queramos usar el paquete en nuestro programa. Nos ahorra un poco de tecleo y además es un a convención. Todos los científicos de datos usan `pd` en vez de `pandas`.
-
-¿Y ahora qué? ¿`pandas` con qué se come o qué?
-
-Bueno, primero vamos a platicar de las dos estructuras de datos que `pandas` nos ofrece que vamos a estar utilizando muy constantemente: Las `Series` y los `DataFrames`. Tú ya conoces dos estructuras de datos: `listas` y `diccionarios`. Las estructuras de `pandas` se parecen bastante a éstas pero extienden sus funcionalidades. ¡Vamos a verlas!
 
 ### Series de Pandas
 
