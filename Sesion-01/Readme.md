@@ -12,22 +12,6 @@
 
 ---
 
-<ins>Instalación de Python, Conda y Jupyter Notebooks</ins>
-
-En el Prework se dieron las instrucciones de instalación de Python, Conda y Jupyter Notebooks. Vamos a checar rápidamente que todo esté funcionando correctamente.
-
-1. Usemos el comando `python -V` en la terminal para confirmar la instalación de Python.
-
-2. Ahora usemos el comando `conda -V` para confirmar la de Conda.
-
-3. Para finalizar, corramos `jupyter notebook -V`.
-
-Si todo está funcionando, ¡sigamos adelante!
-
-> Hay que asegurarse de que todos los alumnos tengan todas las herramientas instaladas y corriendo adecuadamente. Es común que Conda se haya instalado pero que el path no se haya agregado. He considerado que incluir ambientes virtuales era ya demasiado para una sola sesión (porque además Jupyter Notebooks ahora requiere un paso extra de instalación de nuevos kernels). Pero si consideras que es absolutamente esencial, éste es el momento para hablar del tema. Tomando en cuenta que durante todo el curso sólo utilizamos jupyter notebooks, pandas y numpy, tal vez un ambiente virtual es overkill.
-
----
-
 <ins>Jupyter Notebooks</ins>
 
 Ya hablamos sobre Jupyter Notebooks en el Prework. Vamos a hacer un pequeño repaso para que quede claro cómo aprovechar al máximo este REPL.
