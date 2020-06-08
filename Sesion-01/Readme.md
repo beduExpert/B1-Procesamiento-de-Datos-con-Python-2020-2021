@@ -3,10 +3,9 @@
 
 ### 1. Objetivos
 
-1. Instalar Python, Conda y Jupyter Notebooks e identificar que todo corra adecuadamente.
-2. Asignar variables, operadores matemáticos y tipos de datos.
-3. Realizar interpolación de Strings.
-4. Realizar comparaciones y estructuras de control de flujo.
+1. Asignar variables, operadores matemáticos y tipos de datos.
+2. Realizar interpolación de Strings.
+3. Realizar comparaciones y estructuras de control de flujo.
 
 ### 2. Contenido
 
