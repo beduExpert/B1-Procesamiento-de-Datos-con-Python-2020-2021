@@ -40,26 +40,6 @@ Debajo de nuestras celdas de texto tenemos celdas de tipo código. En estas celd
 
 ¡Aprendamos ahora cómo instalar y utilizar un JN!
 
-#### Instalando Python
-
-JN requiere que Python esté instalado en nuestra computadora para poder funcionar. Si aún no has instalado Python, ve al siguiente link:
-
-[Instalaciones de Python](https://www.python.org/downloads/)
-
-Baja el ejecutable de Python:
-
-<div style="width: 500px; padding: 30px; margin: 20px"><img src='./Imgs/download_python.png'/></div>
-
-Asegúrate de que sea el ejecutable adecuado para tu sistema operativo (Mac OS X, Windows o Linux). Después corre el ejecutable en tu computadora. ¡Felicidades, ya tienes Python en tu computadora!
-
-#### Instalando Conda
-
-Conda es lo que se llama un gestor de paquetes y un sistema de gestión de entornos virtuales. Básicamente es un repositorio de muchas librerías de Python que puedes instalar en tu computadora. Estas librerías son como "plugins" de Python: extienden sus capacidades para que podamos aprovechar al máximo las posibilidades. Conda también nos sirve para crear ambientes virtuales, de los cuales hablaremos más adelante. Necesitamos instalar Conda antes de poder usar JN. ¡Vamos a instalarlo entonces! Ve al siguiente link y descarga el instalador adecuado para tu sistema operativo (recuerda instalar la versión para Python 3):
-
-[Instaladores de Conda](https://docs.conda.io/en/latest/miniconda.html)
-
-Para saber si la instalación funcionó adecuadamente, abre tu terminal y escribe el siguiente comando: `conda -V`. Si el comando te muestra la versión de Conda instalada en tu computadora y no te lanza un error, quiere decir que todo está bien.
-
 #### Instalando Jupyter Notebooks
 
 ¡Ahora ya podemos instalar Jupyter Notebooks! En la terminal, escribe el siguiente comando para instalar JN: `conda install -c conda-forge notebook`. Al igual que con Conda, para asegurarte que la instalación haya sido exitosa puedes escribir el comando `jupyter notebook -V` en la terminal. Si no hay ningún error, estás listo para seguir adelante.
