@@ -31,9 +31,9 @@ Como vimos en el Prework, los sistemas de gestión de bases de datos (como MySQL
 
 Normalmente, estas bases de datos van a estar almacenadas en algún servidor al que todos los integrantes de tu equipo van a tener acceso. Vamos a conectarnos a una base de datos remota usando la librería `mysql-connector`.
 
-Antes que nada, si no lo has hecho ya, instala la librería desde tu terminal con el comando:
+Antes que nada, si no lo has hecho ya, instala la librería desde Google Colab:
 
-`pip install mysql-connector-python`
+`!pip install mysql-connector-python`
 
 >
 
