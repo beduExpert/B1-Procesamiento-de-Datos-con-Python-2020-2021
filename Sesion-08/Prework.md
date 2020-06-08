@@ -34,9 +34,9 @@ La tabla "movies" contiene datos acerca de películas y sus géneros. La tabla "
 
 Otras dos tablas fueron creadas en la base de datos para tener cierta información de decodificación de algunas de las columnas de la tabla "users". Estas tablas llevan como nombre "age_ranges" y "occupations".
 
-Vamos a utilizar la librería MySQL Connector para realizar la conexión a la base de datos. Instala la librería corriendo el siguiente comando desde la terminal:
+Vamos a utilizar la librería MySQL Connector para realizar la conexión a la base de datos. Instala la librería corriendo el siguiente comando:
 
-`pip install mysql-connector-python`
+`pip install !mysql-connector-python`
 
 Ahora, en nuestro programa de Python, tenemos que importar la librería:
 
