@@ -3,25 +3,11 @@
 
 ### 1. Objetivos
 
-1. Importar paquetes y módulos.
-2. Identificar las características básicas de las Series y DataFrames de Pandas.
-3. Leer JSONs usando Pandas.
-4. Utilizar herramientas básicas de exploración de datos.
+1. Identificar las características básicas de las Series y DataFrames de Pandas.
+2. Leer JSONs usando Pandas.
+3. Utilizar herramientas básicas de exploración de datos.
 
 ### 2. Contenido
-
----
-
-<ins>Importación de paquetes y módulos</ins>
-
-Los módulos en Python son simplemente programas que tienen una funcionalidad específica. Están diseñados para poder ser utilizados por otros programas y aprovechar dicha funcionalidad sin tener que reescribirla desde cero.
-
-Los paquetes son conjuntos de módulos (y de otros paquetes) que podemos instalar usando `pip` o `conda` y que nos sirven para extender las funcionalidades de nuestros programas.
-
-Vamos a aprender a importar paquetes a nuestro código para aprovechar las herramientas maravillosas que otros programadores han creado.
-
-> Por cuestiones de tiempo y por la dificultad conceptual decidí no hablar de ambientes virtuales al principio del módulo. Creo que es innecesario dada la naturaleza del código que escriben los científicos de datos. Los científicos de datos no son ingenieros de software y lo más probable es que utilicen exactamente los mismos paquetes en exactamente las mismas versiones siempre. Si consideras que hay tiempo y que es esencial que aprendan sobre ambientes virtuales, éste es el momento.
-
 
 ---
 
