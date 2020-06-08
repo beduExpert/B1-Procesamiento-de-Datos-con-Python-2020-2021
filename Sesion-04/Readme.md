@@ -22,20 +22,6 @@ Vamos a aprender a importar paquetes a nuestro código para aprovechar las herra
 
 > Por cuestiones de tiempo y por la dificultad conceptual decidí no hablar de ambientes virtuales al principio del módulo. Creo que es innecesario dada la naturaleza del código que escriben los científicos de datos. Los científicos de datos no son ingenieros de software y lo más probable es que utilicen exactamente los mismos paquetes en exactamente las mismas versiones siempre. Si consideras que hay tiempo y que es esencial que aprendan sobre ambientes virtuales, éste es el momento.
 
-[**`Ejemplo 1`**](Ejemplo-01/paquetes.ipynb)
-
----
-
-<ins>Instalando paquetes</ins>
-
-Para poder realizar todos los ejercicios de ésta y las siguientes sesiones, instala de una vez las siguientes librerías:
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-
->
 
 ---
 
