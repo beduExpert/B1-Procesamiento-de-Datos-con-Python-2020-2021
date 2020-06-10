@@ -23,6 +23,20 @@ Todo proyecto de Ciencia de Datos tiene una serie de pasos necesarios para ser r
 
 Si intentamos hacer análisis estadístico o visualizaciones de datos con una base de datos desordenada, nos toparemos con muchos problemas. Nuestros análisis serán imprecisos y lo más probable es que terminemos con conclusiones incorrectas. Aquí es donde entra el Procesamiento de Datos. El Procesamiento de Datos reúne toda una serie de herramientas que sirven para explorar, limpiar, transformar, ordenar y estructurar los datos de manera que puedan ser útiles para su posterior análisis y visualización. En este módulo aprendemos cómo realizar estos procesos esenciales y nos prepararemos para poder realizar procesos aún más complejos en módulos posteriores.
 
+### Clonar nuestro repositorio
+
+Para poder realizar los ejercicios diseñados para este módulo es necesario que clones el repositorio del módulo a tu computadora. Probablemente ya hiciste esto en los módulos anteriores, pero en caso de que no lo hayas hecho, he aquí las instrucciones.
+
+Da click [aquí para ir al url del repositorio](https://github.com/beduExpert/B1-Procesamiento-de-Datos-con-Python-2020/tree/student).
+
+Verás algo como esto:
+
+Da click en "Clone or Download" y esto aparecerá:
+
+Da click en el botón que está a la derecha del link:
+
+Acabas de copiar el link https://github.com/beduExpert/B1-Procesamiento-de-Datos-con-Python-2020.git
+
 ### Introducción a Python
 
 En este prework vamos a hablar rápidamente acerca de algunos de los conocimientos fundamentales que necesitamos para programar en Python. Durante la clase presencial se realizarán numerosos ejercicios prácticos que te ayudarán a dominar estos temas. Por lo pronto, recomiendo ampliamente que vayas reescribiendo todo el código que veas aquí en tu propio JN. **NUNCA** hagas copy-paste. La única forma de aprender de verdad es escribir línea por línea, letra por letra, con tus propias manos.
