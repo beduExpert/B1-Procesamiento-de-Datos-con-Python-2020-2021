@@ -9,6 +9,16 @@
 
 ### 2. Contenido
 
+<ins>Revisión de Software</ins>
+
+Asegurarse de que todos los alumnos hayan realizado con éxito la conexión entre Google Drive, Github y Google Colab. 
+
+Es necesario saber leer archivos .ipynb en Colab desde el repositorio del módulo.
+
+También es necesario haber creado el Acceso Directo a los Datasets desde el Drive del alumno para poder acceder a los conjuntos de datos desde Colab.
+
+> Todas las instrucciones están paso por paso en el Prework.
+
 ---
 
 <ins>Jupyter Notebooks</ins>

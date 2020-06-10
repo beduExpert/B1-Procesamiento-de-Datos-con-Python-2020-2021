@@ -65,9 +65,9 @@ Cuando recibimos una respuesta, vamos también a recibir un código de estatus q
 
 ### Librería Requests
 
-¡Estamos listos para hacer nuestras peticiones HTTP! Antes que nada, hay que instalar la librería de Python que usaremos para hacer nuestras peticiones: [requests](https://requests.readthedocs.io/en/master/user/quickstart/#make-a-request).
+¡Estamos listos para hacer nuestras peticiones HTTP! Antes que nada, hay que instalar la librería de Python que usaremos para hacer nuestras peticiones: [requests](https://requests.readthedocs.io/en/master/user/quickstart/#make-a-request). Google Colab no incluye esta librería y por lo tanto es necesario instalarla manualmente
 
-En tu terminal usa el comando `pip install requests` para instalar la librería.
+En una celda de tu JN escribe el comando `!pip install requests` y corre la celda para instalar la librería. Ahora se ha instalado esta librería en esta celda. Cada vez que quieras usar esta librería en un JN distinto tendrás que volver a realizar la instalación, puesto que todo se resetea.
 
 Ahora, necesitamos un API. Vamos a explorar un API que ofrece la NASA acerca de objetos en el espacio cuya órbita pasa cerca de la Tierra. [Puedes encontrar dicha API y su documentación aquí](https://api.nasa.gov/). Para poder acceder a la API, necesitamos registrarnos en la página de la NASA y obtener lo que se llama un Api Key, que es un tipo contraseña que necesitamos para hacer peticiones a su API. Puede obtener tu propia Api Key registrándote [aquí](https://api.nasa.gov/#signUp).
 
@@ -326,7 +326,7 @@ Ahora podríamos llevar a cabo el Procesamiento de Datos pertinente, pero eso lo
 
 a) PUT
 b) POST
-c) PATCH
+**c) PATCH**
 d) DELETE
 e) GET
 
@@ -335,7 +335,7 @@ e) GET
 a) 200
 b) 201
 c) 404
-d) 400
+**d) 400**
 e) 500
 
 3. ¿Cuál es la sintaxis correcta para crear un `for loop` que imprima los valores del 0 al 9 uno tras otro?
@@ -358,11 +358,12 @@ for i in len(9):
     print(i)
 ```
 
-d) 
+**d) 
 ```python
 for i in range(0, 10):
     print(i)
 ```
+**
 
 e) 
 ```python
@@ -373,14 +374,14 @@ for i in range(0, 9):
 4. Tenemos un `DataFrame` con multiíndice de 2 niveles. ¿Cuál es la sintaxis correcta para acceder al valor encontrado en el índice `level_1` del nivel 1 y el índice `level_2` del nivel 2:
 
 a) `df.loc[['level_1', 'level_2']]`
-b) `df.loc[('level_1', 'level_2')]`
+**b) `df.loc[('level_1', 'level_2')]`**
 c) `df.loc['level_1']['level_2']`
 d) `df.loc(('level_1', 'level_2'))`
 e) `df.loc.level_1.level_2`
 
 5. ¿Qué bandera tengo que utilizar para concatenar dos `Series` de manera vertical?
 
-a) `axis=0`
+**a) `axis=0`**
 b) `axis=1`
 c) `ax=0`
 d) `axis=2`

@@ -42,7 +42,7 @@ Veamos esto en acción.
 
 Vamos a usar la librería Request para realizar nuestras peticiones en Python. Primero que nada, tenemos que instalarla usando:
 
-`pip install requests`
+`!pip install requests`
 
 Ahora vamos a ver cómo usarla.
 
