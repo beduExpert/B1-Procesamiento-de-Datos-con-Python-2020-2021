@@ -57,16 +57,16 @@ Hemos estado asignando números a variables. En Python podemos realizar operacio
 
 <ins>Tipos de datos en Python</ins>
 
-Python tiene diferentes tipos de datos par representar diferentes cosas. Por el momento vamos a aprender los 4 más básicos y esenciales:
+Python tiene diferentes tipos de datos para representar diferentes cosas. Por el momento vamos a aprender los 4 más básicos y esenciales:
 
 - `int` => números enteros
 - `float` => números decimales
-- `string` => secuencias de carácteres (texto)
+- `string` => secuencias de caracteres (texto)
 - `boolean` => booleanos (True o False)
 
 Por el momento no importa si no entiendes para qué sirven las strings y los booleanos. Eso lo veremos más adelante.
 
-> Explicar por qué necesitamos diferentes tipos de datos. Por qué a Python no le da igual leer un "1" que un 1. En el Ejemplo se va a usar la función `type` Hay que explicar cómo funciona llamar una función y pasarle el resultado a otra función.
+> Explicar por qué necesitamos diferentes tipos de datos, por qué a Python no le da igual leer un "1" que un 1. En el Ejemplo se va a usar la función `type` Hay que explicar cómo funciona llamar una función y pasarle el resultado a otra función.
 
 [**`Ejemplo 4`**](Ejemplo-04/tipos_de_datos.ipynb)
 
