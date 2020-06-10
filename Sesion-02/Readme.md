@@ -13,7 +13,7 @@
 
 <ins>Listas</ins>
 
-Como vimos en el Prework, las listas son uno de los tipos de estructuras de datos que podemos utilizar en Python. Una estructura de datos nos sirve para organizar datos y para optimizar el acceso, procesamiento y uso de estos.
+Como vimos en el Prework, las listas son uno de los tipos de estructuras de datos que podemos utilizar en Python. Una estructura de datos nos sirve para organizar datos y para optimizar el acceso, procesamiento y uso de éstos.
 
 Las listas son secuencias ordenadas de datos y se ven así:
 
