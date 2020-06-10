@@ -42,9 +42,9 @@ Veamos cómo funciona.
 
 <ins>`filter`</ins>
 
-Nuestra segunda función se llama `filter`. Tal y como su nombre lo dice, `filter` nos ayuda a filtrar elementos de la lista que no queremos.
+Nuestra segunda función se llama `filter`. Tal y como su nombre lo dice, `filter` nos ayuda a filtrar elementos que no queremos de la lista.
 
-`filter` recibe una función que regrese `True` o `False` y una `lista`. Despuès aplica la función "elemento por elemento" a la `lista`. Cada vez que la función regrese `True`, el elemento se queda en la nueva lista; cuando la función regrese `False`, el elemento es descartado:
+`filter` recibe una función que regrese `True` o `False` y una `lista`. Después aplica la función "elemento por elemento" a la `lista`. Cada vez que la función regrese `True`, el elemento se queda en la nueva lista; cuando la función regrese `False`, el elemento es descartado:
 
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_44.png'></div>
 
