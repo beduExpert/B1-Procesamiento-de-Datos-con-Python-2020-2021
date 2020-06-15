@@ -24,9 +24,7 @@ Podríamos programar todo siempre desde cero, pero en ese caso todo tomaría muc
 
 Para poder utilizar un paquete, lo primero que tenemos que hacer que instalarlo, pero afortunadamente Google Colab ya tiene instalados muchos de los paquetes más importantes de ciencia de datos. Por lo tanto, basta con realizar la importación en nuestro programa para poder utilizar estos paquetes.
 
-Abre un Jupyter Notebook, escribe la siguiente línea y corre tu celda:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-4_3.png'></div>
+Abre un Jupyter Notebook, escribe el comando `import pandas as pd` y corre la celda.
 
 ¡Listo! Ya podemos acceder a `Pandas` en nuestro programa. ¿Por qué agregamos lo de `as pd`? Bueno básicamente le estamos diciendo a Python que queremos poder escribir `pd` en vez de `pandas` cada vez que queramos usar el paquete en nuestro programa. Nos ahorra un poco de tecleo y además es un a convención. Todos los científicos de datos usan `pd` en vez de `pandas`.
 
