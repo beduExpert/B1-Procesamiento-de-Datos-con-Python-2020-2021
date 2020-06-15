@@ -7,7 +7,7 @@
 
 #### REQUISITOS 
 
-- Tener un dataset que ha sido elegido por su potencial de ayudarnos a responder algunas (o todas) de las preguntas que nos hemos planteado.
+- Tener un dataset que ha sido elegido por su potencial de ayudarnos a responder algunas (o todas) las preguntas que nos hemos planteado.
 
 #### DESARROLLO
 
