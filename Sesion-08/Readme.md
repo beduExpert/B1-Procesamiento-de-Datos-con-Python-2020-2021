@@ -44,11 +44,11 @@ Antes que nada, si no lo has hecho ya, instala la librería desde Google Colab:
 
 <ins>Tablas a `DataFrames`</ins>
 
-Ya que hemos realizado nuestra conexión, vamos a hacer unas consultas a nuestra base de datos para construir algunos `DataFramese` a partir de las tablas que existen en la base `movielens`
+Ya que hemos realizado nuestra conexión, vamos a hacer unas consultas a nuestra base de datos para construir algunos `DataFrames` a partir de las tablas que existen en la base `movielens`.
 
 Podríamos hacer consultas filtradas a la base de datos cada vez que necesitáramos un subconjunto específico, pero resulta mucho más fácil (sobre todo en este caso en el que nuestro conjunto de datos es pequeño), pedir todos los datos y luego filtrarlos usando `pandas`.
 
-Aunque ésta no es una solución apta para **todos** los casos (en el mundo de la ingeniería de software y la ciencia de datos rara vez sucede eso, en realidad), es la que usaremos en esta sesión.
+Aunque ésta no es una solución apta para **todos** los casos (en el mundo de la ingeniería de software y la ciencia de datos en realidad rara vez sucede eso), es la que usaremos en esta sesión.
 
 >
 
