@@ -55,7 +55,7 @@ Exploremos un poco.
 
 <ins>Funciones vectorizadas y agregaciones con `DataFrames`</ins>
 
-También podemos aplicar estas herramientas a `DataFrames` completos. Tanto las operaciones aritméticas, funciones vectorizadas y agregaciones funciona con ligeras diferencias de procedimiento.
+También podemos aplicar estas herramientas a `DataFrames` completos. Tanto las operaciones aritméticas, funciones vectorizadas y agregaciones funcionan con ligeras diferencias de procedimiento.
 
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-5_17.png'></div>
 
@@ -99,7 +99,7 @@ Exploremos las 3 opciones.
 
 ---
 
-<ins>Aplicando nuestros conocimientos dataset real</ins>
+<ins>Aplicando nuestros conocimientos a un dataset real</ins>
 
 ¡Vamos a ver un pequeño ejemplo donde vamos a aplicar lo que hemos visto el día de hoy a un dataset real!
 
