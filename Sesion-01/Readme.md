@@ -114,7 +114,7 @@ No igual (distinto) que: !=
 
 Veamos cómo funcionan.
 
-> Creo que es muy útil hacer esta referencia de las decisiones que tomamos en la vida real. ¿Cómo es que funciona la inteligencia humana? Y ¿cómo es que los programas emulan esta inteligencia para variar su output dependiendo del input que obtengan.
+> Creo que es muy útil hacer esta referencia de las decisiones que tomamos en la vida real. ¿Cómo es que funciona la inteligencia humana? Y ¿cómo es que los programas emulan esta inteligencia para variar su output dependiendo del input que reciban?
 
 [**`Ejemplo 6`**](Ejemplo-06/operadores_de_comparacion.ipynb)
 [**`Reto 4`**](Reto-04/operadores_de_comparacion.ipynb)
