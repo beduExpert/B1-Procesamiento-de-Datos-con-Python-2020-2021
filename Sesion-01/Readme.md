@@ -123,7 +123,7 @@ Veamos cómo funcionan.
 
 <ins>Estructuras de control de flujo</ins>
 
-Para finalizar, vamos a juntar todo lo que hemos aprendido el día de hoy y vamos a darle a nuestro programa la capacidad de tomar decisiones. Los programas tienen datos de entrada (inputs) y datos de salida (outputs). Varían sus outputs dependiendo del input que obtengan. Para poder tomar decisiones, utilizan las llamadas `estructuras de control de flujo`. Que se ven así:
+Para finalizar, vamos a juntar todo lo que hemos aprendido el día de hoy y vamos a darle a nuestro programa la capacidad de tomar decisiones. Los programas tienen datos de entrada (inputs) y datos de salida (outputs). Varían sus outputs dependiendo del input que reciban. Para poder tomar decisiones, utilizan las llamadas `estructuras de control de flujo`. Que se ven así:
 
 ```
 if var_1 > var_2:
