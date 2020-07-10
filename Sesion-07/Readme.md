@@ -57,7 +57,7 @@ Para eso tenemos la propiedad `str` que estudiaremos a continuación.
 
 <ins>`map`</ins>
 
-Otra cosa que podemos hacer es usar un mappeo de un dato a otro. Esto significa que le damos a `pandas` algún objeto que contenga una correspondencia entre un dato y otro para que realice una conversión.
+Otra cosa que podemos hacer es usar un mapeo de un dato a otro. Esto significa que le damos a `pandas` algún objeto que contenga una correspondencia entre un dato y otro para que realice una conversión.
 
 `map` nos permite pasarle tanto un `diccionario` como una `función` para realizar la conversión de un dato a otro.
 
