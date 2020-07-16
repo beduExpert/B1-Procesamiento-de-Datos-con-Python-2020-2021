@@ -19,7 +19,7 @@ El día de hoy vamos a aprender a limpiar un poco nuestros datasets. Necesitamos
 
 Vamos a aprender a encontrar valores nulos en nuestro dataset y limpiarlos.
 
-Pero para poder hacer esto, primero vamos a aprender dos herramientas que se llaman `funciones vectorizadas` y `agregaciones`, que expandirán tus posibilidades muchísimo.
+Pero para poder hacer esto, primero vamos a aprender dos herramientas que se llaman `funciones vectorizadas` y `agregaciones` que expandirán tus posibilidades muchísimo.
 
 ---
 
@@ -40,7 +40,7 @@ Vamos a ver cómo es que funcionan.
 
 <ins>Agregaciones</ins>
 
-Las `agregaciones` son una variación de las funciones vectorizadas. Lo que hacen es tomar un arreglo (una `Serie`, por ejemplo), aplicar un a operación a todos los elementos y regresar un resultado único que es la `agregación` o `reducción`  del arreglo. Una `agregación` se ve así:
+Las `agregaciones` son una variación de las funciones vectorizadas. Lo que hacen es tomar un arreglo (una `Serie`, por ejemplo), aplicar una operación a todos los elementos y regresar un resultado único que es la `agregación` o `reducción`  del arreglo. Una `agregación` se ve así:
 
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-5_10.png'></div>
 
@@ -55,7 +55,7 @@ Exploremos un poco.
 
 <ins>Funciones vectorizadas y agregaciones con `DataFrames`</ins>
 
-También podemos aplicar estas herramientas a `DataFrames` completos. Tanto las operaciones aritméticas, funciones vectorizadas y agregaciones funciona con ligeras diferencias de procedimiento.
+También podemos aplicar estas herramientas a `DataFrames` completos. Tanto las operaciones aritméticas, funciones vectorizadas y agregaciones funcionan con ligeras diferencias de procedimiento.
 
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-5_17.png'></div>
 
@@ -99,7 +99,7 @@ Exploremos las 3 opciones.
 
 ---
 
-<ins>Aplicando nuestros conocimientos dataset real</ins>
+<ins>Aplicando nuestros conocimientos a un dataset real</ins>
 
 ¡Vamos a ver un pequeño ejemplo donde vamos a aplicar lo que hemos visto el día de hoy a un dataset real!
 

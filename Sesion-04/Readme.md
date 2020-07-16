@@ -30,7 +30,7 @@ Vamos a ver cómo funcionan.
 
 <ins>Métodos avanzados de indexación</ins>
 
-Podemos usar otros métodos de indexación en las `Series` que resultan sumamente útiles a la hora de explorar y procesar datos.
+Podemos usar otros métodos de indexación en las `Series` que resultan súmamente útiles a la hora de explorar y procesar datos.
 
 Podemos elegir, por ejemplo, rangos de datos usando una sintaxis como la siguiente:
 
@@ -73,7 +73,7 @@ Podemos agregar, reasignar y eliminar columnas de nuestros `DataFrames`. La sint
 
 <ins>Lectura de archivos JSON</ins>
 
-Uno de los formatos más comunes en los que vamos a encontrar conjunto de datos es el formato JSON. Como probablemente ya sabrás, el formato JSON se parece bastante al formato que tienen los `diccionarios` de Python:
+Uno de los formatos más comunes en los que vamos a encontrar conjuntos de datos es el formato JSON. Como probablemente ya sabrás, el formato JSON se parece bastante al formato que tienen los `diccionarios` de Python:
 
 ```python
 {
@@ -86,7 +86,7 @@ Uno de los formatos más comunes en los que vamos a encontrar conjunto de datos 
 
 Vamos a aprender a leer archivos JSON y a convertirlos en `DataFrames`.
 
-> Lectura de CSVs y adquisición de datos por medio de APIs y Bases de Datos se estudian más adelante en el módulo 
+> Lectura de CSVs y adquisición de datos por medio de APIs y Bases de Datos se estudian más adelante en el módulo.
 
 [**`Ejemplo 6`**](Ejemplo-06/lectura_de_json.ipynb)
 
@@ -98,7 +98,7 @@ El Ánalisis Exploratorio de Datos es el proceso a través del cual exploramos u
 
 Vamos a ver algunas herramientas básicas que tienen los `DataFrames` para explorar un conjunto de datos.
 
-> Por ahora estamos haciendo una exploración muy básica. Lo que importa es que el alumno entienda los principios básicos de cómo crear `DataFrames` a partir de conjuntos de datos existentes. En la sesión que sigue se verá Ànalisis Exploratorio a más profundidad.
+> Por ahora estamos haciendo una exploración muy básica. Lo que importa es que el alumno entienda los principios básicos de cómo crear `DataFrames` a partir de conjuntos de datos existentes. En la sesión que sigue se verá Análisis Exploratorio a más profundidad.
 
 [**`Ejemplo 7`**](Ejemplo-07/aed.ipynb)
 [**`Reto 5`**](Reto-05/aed.ipynb)
