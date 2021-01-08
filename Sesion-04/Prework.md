@@ -16,6 +16,21 @@ El día de hoy aprenderemos la primera de ellas: `Pandas`. Veremos cómo usarla 
 - Leer JSONs usando Pandas.
 - Utilizar herramientas básicas de exploración de datos.
 
+### Importación de paquetes
+
+`Pandas` es lo que se llama un paquete de Python. Un paquete es un conjunto de módulos. ¿Qué es un módulo? Es un archivo `.py` que contiene código de Python que podemos reutilizar en otras secciones de nuestro programa. Un paquete entonces tiene muchos módulos, cada módulo conteniendo código que cualquier persona puede utilizar para extender las capacidades de su programa.
+
+Podríamos programar todo siempre desde cero, pero en ese caso todo tomaría muchísimo tiempo y además nunca lograríamos tanta eficiencia. Usar paquetes que hen hecho otras personas es muy útil porque nos ahorra tiempo y energía y nos da "super poderes" que podemos utilizar en nuestro programa.
+
+Para poder utilizar un paquete, lo primero que tenemos que hacer que instalarlo, pero afortunadamente Google Colab ya tiene instalados muchos de los paquetes más importantes de ciencia de datos. Por lo tanto, basta con realizar la importación en nuestro programa para poder utilizar estos paquetes.
+
+Abre un Jupyter Notebook, escribe el comando `import pandas as pd` y corre la celda.
+
+¡Listo! Ya podemos acceder a `Pandas` en nuestro programa. ¿Por qué agregamos lo de `as pd`? Bueno básicamente le estamos diciendo a Python que queremos poder escribir `pd` en vez de `pandas` cada vez que queramos usar el paquete en nuestro programa. Nos ahorra un poco de tecleo y además es un a convención. Todos los científicos de datos usan `pd` en vez de `pandas`.
+
+¿Y ahora qué? ¿`pandas` con qué se come o qué?
+
+Bueno, primero vamos a platicar de las dos estructuras de datos que `pandas` nos ofrece que vamos a estar utilizando muy constantemente: Las `Series` y los `DataFrames`. Tú ya conoces dos estructuras de datos: `listas` y `diccionarios`. Las estructuras de `pandas` se parecen bastante a éstas pero extienden sus funcionalidades. ¡Vamos a verlas!
 
 ### Series de Pandas
 
@@ -351,7 +366,7 @@ Podemos observar aquí que sólo las columnas `has_online_delivery` y `price_ran
 1. ¿Cuál de estos tipos de dato *no* es un tipo de dato de `pandas`?
 
 a) `object`
-b) `text`
+**b) `text`**
 c) `int64`
 d) `float64`
 e) `bool`
@@ -361,20 +376,20 @@ e) `bool`
 a) append
 b) idx
 c) index
-d) loc
+**d) loc**
 e) pos
 
 3. ¿Cuál es la manera correcta de agregar una columna a mi `DataFrame`?
 
 a) df.add(nueva_columna)
 b) df.append(nueva_columna)
-c) df['nueva_columna'] = nueva_columna
+**c) df['nueva_columna'] = nueva_columna**
 d) df[nueva_columna]
 e) df + nueva_columna
 
 4. ¿Cuál de los métodos siguientes puedo usar para obtener las 10 primeras entradas de un `DataFrame`?
 
-a) df.head(10)
+**a) df.head(10)**
 b) df.tail(10)
 c) df[:10]
 d) df.get(10)
@@ -385,5 +400,5 @@ e) df.head()
 a) df.types
 b) df.T
 c) types(df)
-d) df.dtypes
+**d) df.dtypes**
 e) df.get('types')

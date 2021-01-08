@@ -13,7 +13,7 @@
 
 <ins>Listas</ins>
 
-Como vimos en el Prework, las listas son uno de los tipos de estructuras de datos que podemos utilizar en Python. Una estructura de datos nos sirve para organizar datos y para optimizar el acceso, procesamiento y uso de estos.
+Como vimos en el Prework, las listas son uno de los tipos de estructuras de datos que podemos utilizar en Python. Una estructura de datos nos sirve para organizar datos y para optimizar el acceso, procesamiento y uso de éstos.
 
 Las listas son secuencias ordenadas de datos y se ven así:
 
@@ -46,7 +46,7 @@ Veámoslos en acción.
 
 <ins>Creando y accesando diccionarios</ins>
 
-Los diccionarios son nuestra segunda estructura de datos básica en Python. A diferencia de las listas, los diccionarios no tienen un orden definido. Esto no importa demasiado porque los diccionarios contienen pares llave-valor en vez de elementos (como en las listas). Para acceder a los valores basta con pasarle al diccionario la llave que estamos buscando. Piénsalo como pasarle un `url` a tu navegador para obtener una página web. En algún lado hay una estructura similar a un diccionario que relaciona cada `url` con el ip en donde está almacenada la página a la queremos acceder.
+Los diccionarios son nuestra segunda estructura de datos básica en Python. A diferencia de las listas, los diccionarios no tienen un orden definido. Esto no importa demasiado porque los diccionarios contienen pares llave-valor en vez de elementos (como en las listas). Para acceder a los valores basta con pasarle al diccionario la llave que estamos buscando. Piénsalo como pasarle un `url` a tu navegador para obtener una página web. En algún lado hay una estructura similar a un diccionario que relaciona cada `url` con la ip en donde está almacenada la página a la queremos acceder.
 
 Veamos cómo crear y acceder diccionarios.
 

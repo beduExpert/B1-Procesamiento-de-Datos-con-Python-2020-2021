@@ -21,13 +21,13 @@ La transformación de datos consiste en convertir un dato en otro dato utilizand
 
 La reestructuración de datos tiene que ver con ver tu conjunto de datos desde diferentes perspectivas.
 
-La transformación se muy útil para limpiar nuestro dataset y para dejarlo preparado para futuros análisis estadísticos, mientras que la reestructuración nos ayuda a entender mejor nuestro conjunto de datos y extraer información valiosa que pueda ser luego analizada o visualizada.
+La transformación es muy útil para limpiar nuestro dataset y para dejarlo preparado para futuros análisis estadísticos, mientras que la reestructuración nos ayuda a entender mejor nuestro conjunto de datos y extraer información valiosa que pueda ser luego analizada o visualizada.
 
 ---
 
 <ins>Casting</ins>
 
-El primer tipo de transformación que veremos es el `casting`. `Castings` significa convertir un dato de un tipo de dato a otro tipo de dato. O sea, convertir una `string` a un `int`, un `int` a un `float`, un `int` a un `datetime`, etc.
+El primer tipo de transformación que veremos es el `casting`. `Casting` significa convertir un dato de un tipo de dato a otro tipo de dato. O sea, convertir una `string` a un `int`, un `int` a un `float`, un `int` a un `datetime`, etc.
 
 Muchas veces los conjuntos de datos con los que nos topamos no tienen el formato adecuado o están muy sucios. Esto ocasiona que `pandas` no sepa cómo interpretar el tipo de datos con los que se enfrenta.
 
@@ -57,7 +57,7 @@ Para eso tenemos la propiedad `str` que estudiaremos a continuación.
 
 <ins>`map`</ins>
 
-Otra cosa que podemos hacer es usar un mappeo de un dato a otro. Esto significa que le damos a `pandas` algún objeto que contenga una correspondencia entre un dato y otro para que realice una conversión.
+Otra cosa que podemos hacer es usar un mapeo de un dato a otro. Esto significa que le damos a `pandas` algún objeto que contenga una correspondencia entre un dato y otro para que realice una conversión.
 
 `map` nos permite pasarle tanto un `diccionario` como una `función` para realizar la conversión de un dato a otro.
 

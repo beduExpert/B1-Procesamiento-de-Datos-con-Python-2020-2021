@@ -1,4 +1,4 @@
-## Procesamiento de Datos con Python
+## Procesamiento de Datos con Python 2020
 
 ### OBJETIVO 
 
@@ -14,6 +14,14 @@
  - [Sesion-07: Transformación, filtración y ordenamiento de datos](Sesion-07/Readme.md)
  - [Sesion-08: Bases de datos, merge y agrupaciones](Sesion-08/Readme.md)
 
-#### Datasets del módulo:
+### Datasets:
 
 - [Datasets](./Datasets/Readme.md)
+
+### Repositorio
+
+- [Repositorio](https://github.com/beduExpert/B1-Procesamiento-de-Datos-con-Python-2020)
+
+### ¿Dónde están las funciones de verificación?
+
+> Hay Retos que tienen funciones de verificación para hacer tests del código escrito por los alumnos. Cuando un Reto mencione una función de verificación, puedes encontrarla en la misma carpeta donde está el Reto, en un archivo llamado helpers.py.

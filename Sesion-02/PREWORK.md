@@ -265,7 +265,7 @@ Hemos terminado el Prework de la Sesión 2. Ojalá y disfrutes mucho los Retos q
 
 1. ¿Qué método se utiliza para agregar elementos a una lista?
 
-a) append
+**a) append**
 b) add
 c) pop
 d) agregízame.com
@@ -278,21 +278,21 @@ b) Los diccionarios se organizan en pares llave-valor, las listas no
 c) Las listas tienen espacio limitado, los diccionarios no
 e) Las listas se definen usando corchetes, los diccionario se definen usando llaves
 f) Las opciones a, b y c
-g) Las opciones a, b y e
+**g) Las opciones a, b y e**
 h) Las opciones b, c y e
 
 3. ¿Qué palabra se utiliza para empezar la declaración de una función?
 
 a) func
 b) fun
-c) def
+**c) def**
 d) dec
 e) aquí_les_va_la_funcion
 
 4. Una de las razones para usar funciones es:
 
 a) Para ahorrar memoria RAM en la computadora
-b) Para modularizar nuestro código y poder reutilizarlo
+**b) Para modularizar nuestro código y poder reutilizarlo**
 c) Porque las funciones aceleran la velocidad de nuestros programas
 d) Para sentirnos súper acá
 

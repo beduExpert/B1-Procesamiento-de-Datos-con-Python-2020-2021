@@ -16,9 +16,9 @@
 
 <ins>Introducción</ins>
 
-Hoy vamos a aprender a adquirir datos de una manera que difiere mucho de las que hemos visto hasta ahora. No vamos a obtener los datos directamente de un archivo que descargamos o que obtenemos directamente de alguien más, sino que vamos a usar una API para obtener nuestros datos programativamente y convertirlos en un `DataFrame` que podamos utilizar.
+Hoy vamos a aprender a adquirir datos de una manera que difiere mucho de las que hemos visto hasta ahora. No vamos a obtener los datos directamente de un archivo que descargamos o que obtenemos directamente de alguien más, sino que vamos a usar una API para obtener nuestros datos programáticamente y convertirlos en un `DataFrame` que podamos utilizar.
 
-En el proceso no sólo veremos APIs sino que también aprenderemos a automatizar procesos usando Python, a concatenar `DataFrames` y a indexar `Series` y `DataFrames` usando `multiìndices` en las filas.
+En el proceso no sólo veremos APIs sino que también aprenderemos a automatizar procesos usando Python, a concatenar `DataFrames` y a indexar `Series` y `DataFrames` usando `multiíndices` en las filas.
 
 ---
 
@@ -42,7 +42,7 @@ Veamos esto en acción.
 
 Vamos a usar la librería Request para realizar nuestras peticiones en Python. Primero que nada, tenemos que instalarla usando:
 
-`pip install requests`
+`!pip install requests`
 
 Ahora vamos a ver cómo usarla.
 

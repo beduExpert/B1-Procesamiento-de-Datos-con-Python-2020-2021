@@ -9,6 +9,16 @@
 
 ### 2. Contenido
 
+<ins>Revisión de Software</ins>
+
+Asegurarse de que todos los alumnos hayan realizado con éxito la conexión entre Google Drive, Github y Google Colab. 
+
+Es necesario saber leer archivos .ipynb en Colab desde el repositorio del módulo.
+
+También es necesario haber creado el Acceso Directo a los Datasets desde el Drive del alumno para poder acceder a los conjuntos de datos desde Colab.
+
+> Todas las instrucciones están paso por paso en el Prework.
+
 ---
 
 <ins>Jupyter Notebooks</ins>
@@ -57,16 +67,16 @@ Hemos estado asignando números a variables. En Python podemos realizar operacio
 
 <ins>Tipos de datos en Python</ins>
 
-Python tiene diferentes tipos de datos par representar diferentes cosas. Por el momento vamos a aprender los 4 más básicos y esenciales:
+Python tiene diferentes tipos de datos para representar diferentes cosas. Por el momento vamos a aprender los 4 más básicos y esenciales:
 
 - `int` => números enteros
 - `float` => números decimales
-- `string` => secuencias de carácteres (texto)
+- `string` => secuencias de caracteres (texto)
 - `boolean` => booleanos (True o False)
 
 Por el momento no importa si no entiendes para qué sirven las strings y los booleanos. Eso lo veremos más adelante.
 
-> Explicar por qué necesitamos diferentes tipos de datos. Por qué a Python no le da igual leer un "1" que un 1. En el Ejemplo se va a usar la función `type` Hay que explicar cómo funciona llamar una función y pasarle el resultado a otra función.
+> Explicar por qué necesitamos diferentes tipos de datos, por qué a Python no le da igual leer un "1" que un 1. En el Ejemplo se va a usar la función `type` Hay que explicar cómo funciona llamar una función y pasarle el resultado a otra función.
 
 [**`Ejemplo 4`**](Ejemplo-04/tipos_de_datos.ipynb)
 
@@ -104,7 +114,7 @@ No igual (distinto) que: !=
 
 Veamos cómo funcionan.
 
-> Creo que es muy útil hacer esta referencia de las decisiones que tomamos en la vida real. ¿Cómo es que funciona la inteligencia humana? Y ¿cómo es que los programas emulan esta inteligencia para variar su output dependiendo del input que obtengan.
+> Creo que es muy útil hacer esta referencia de las decisiones que tomamos en la vida real. ¿Cómo es que funciona la inteligencia humana? Y ¿cómo es que los programas emulan esta inteligencia para variar su output dependiendo del input que reciban?
 
 [**`Ejemplo 6`**](Ejemplo-06/operadores_de_comparacion.ipynb)
 [**`Reto 4`**](Reto-04/operadores_de_comparacion.ipynb)
@@ -113,7 +123,7 @@ Veamos cómo funcionan.
 
 <ins>Estructuras de control de flujo</ins>
 
-Para finalizar, vamos a juntar todo lo que hemos aprendido el día de hoy y vamos a darle a nuestro programa la capacidad de tomar decisiones. Los programas tienen datos de entrada (inputs) y datos de salida (outputs). Varían sus outputs dependiendo del input que obtengan. Para poder tomar decisiones, utilizan las llamadas `estructuras de control de flujo`. Que se ven así:
+Para finalizar, vamos a juntar todo lo que hemos aprendido el día de hoy y vamos a darle a nuestro programa la capacidad de tomar decisiones. Los programas tienen datos de entrada (inputs) y datos de salida (outputs). Varían sus outputs dependiendo del input que reciban. Para poder tomar decisiones, utilizan las llamadas `estructuras de control de flujo`. Que se ven así:
 
 ```
 if var_1 > var_2:

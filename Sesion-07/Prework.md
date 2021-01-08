@@ -336,7 +336,7 @@ También podríamos ordenar nuestro `DataFrame` para ver cuáles fueron los 5 li
 
 a) `astype`
 b) `force_numeric`
-c) `to_numeric`
+**c) `to_numeric`**
 d) `to_int`
 e) `coerce`
 
@@ -347,14 +347,14 @@ e) `coerce`
 a) df['columna'].str.strip(',')
 b) df['columna'].split(',')
 c) ','.split(df['columna'])
-d) df['columna'].str.split(',')
+**d) df['columna'].str.split(',')**
 e) df['columna'].str.split_by(',')
 
 4. ¿Qué código usaría si quisiera ordenar descendentemente mi `DataFrame` usando la columna 'valores'?
 
 a) df.sort_values('valores')
 b) df.sort_by('valores', asc=True)
-c) df.sort_values('valores', ascending=False)
+**c) df.sort_values('valores', ascending=False)**
 d) pd.sort(df, by='valores', ascending=False)
 e) df.sort_index(drop=True)
 
@@ -364,4 +364,4 @@ a) df[df['valores'] > 50].sum()
 b) (df['valores'] > 50).count()
 c) df['valores'].count() > 50
 d) df.max(50).count()
-e) df[df['valores'] > 50].count()
+**e) df[df['valores'] > 50].count()**
