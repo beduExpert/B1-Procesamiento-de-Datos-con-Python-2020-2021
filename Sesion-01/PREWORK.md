@@ -19,6 +19,11 @@ Todo proyecto de Ciencia de Datos tiene una serie de pasos necesarios para ser r
 
 Si intentamos hacer análisis estadístico o visualizaciones de datos con una base de datos desordenada, nos toparemos con muchos problemas. Nuestros análisis serán imprecisos y lo más probable es que terminemos con conclusiones incorrectas. Aquí es donde entra el Procesamiento de Datos. El Procesamiento de Datos reúne toda una serie de herramientas que sirven para explorar, limpiar, transformar, ordenar y estructurar los datos de manera que puedan ser útiles para su posterior análisis y visualización. En este módulo aprendemos cómo realizar estos procesos esenciales y nos prepararemos para poder realizar procesos aún más complejos en módulos posteriores.
 
+### Clonar nuestro repositorio
+
+Para poder realizar los ejercicios diseñados para este módulo es necesario que clones el repositorio del módulo a tu computadora. Probablemente ya hiciste esto en los módulos anteriores, pero en caso de que no lo hayas hecho, he aquí un tutorial.
+
+=======
 ### Software que vamos a usar
 
 Para realizar los ejercicios de este módulo vamos a usar Jupyter Notebooks, Google Drive y Google Colab. A continuación vamos a ver como realizar la preparación de estas herramientas para que puedas sacar el mejor provecho.
