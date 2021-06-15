@@ -25,3 +25,5 @@
 ### ¿Dónde están las funciones de verificación?
 
 > Hay Retos que tienen funciones de verificación para hacer tests del código escrito por los alumnos. Cuando un Reto mencione una función de verificación, puedes encontrarla en la misma carpeta donde está el Reto, en un archivo llamado helpers.py.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rctorr/B1-Procesamiento-de-Datos-con-Python-2020/HEAD)
