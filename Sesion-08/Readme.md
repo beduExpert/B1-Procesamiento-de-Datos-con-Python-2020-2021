@@ -40,6 +40,8 @@ Antes que nada, si no lo has hecho ya, instala la librería desde Google Colab:
 [**`Ejemplo 1`**](Ejemplo-01/conectandose.ipynb)
 [**`Reto 1`**](Reto-01/conectandose.ipynb)
 
+*Como alternativa te dejamos este [material](odbc.md) que te permitirá conectarte a cualquier base de datos.*
+
 ---
 
 <ins>Tablas a `DataFrames`</ins>
