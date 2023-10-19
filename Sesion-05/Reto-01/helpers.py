@@ -2,7 +2,7 @@ def obtener_calificaciones(aciertos, porcentajes):
     
     import numpy as np
     
-    porcentajes_correcto = np.divide(np.multiply(aciertos, 100), 68)
+    porcentajes_correcto = (aciertos / 68) * 100
     if not porcentajes_correcto.equals(porcentajes):
         print(f'Hay algún error en tus cálculos...')
         print(f'¡Por favor intenta de nuevo!')
