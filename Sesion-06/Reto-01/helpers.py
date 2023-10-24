@@ -4,4 +4,4 @@ def visualizar_diametros(objetos):
     
     sizes = objetos[['name', 'estimated_diameter.kilometers.estimated_diameter_max']].copy()
     sizes.sort_values('estimated_diameter.kilometers.estimated_diameter_max', ascending=True, inplace=True)
-    sns.barplot(sizes['name'], sizes['estimated_diameter.kilometers.estimated_diameter_max'])
+    sns.barplot(x=sizes['name'], y=sizes['estimated_diameter.kilometers.estimated_diameter_max'])
