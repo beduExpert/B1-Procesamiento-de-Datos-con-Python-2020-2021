@@ -25,3 +25,8 @@
 ### ¿Dónde están las funciones de verificación?
 
 > Hay Retos que tienen funciones de verificación para hacer tests del código escrito por los alumnos. Cuando un Reto mencione una función de verificación, puedes encontrarla en la misma carpeta donde está el Reto, en un archivo llamado helpers.py.
+
+### Lanzar el repo en MyBinder
+Si por alguna razón tu instalación de Python Miniconda o Jupyter-Lab no están funcionando, entonces puedes dar click en el siguiente icono para lanzar una versión web de Jupyter-Lab y trabajar de forma temporal.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rctorr/B1-Procesamiento-de-Datos-con-Python-2020/HEAD?urlpath=lab)
